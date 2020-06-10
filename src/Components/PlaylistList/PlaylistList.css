@@ -1,0 +1,18 @@
+
+.Playlist-import  {
+    width: 33%;
+    color:red;
+    background-color: rgba(1, 12, 63, 0.7);
+    box-shadow: 0 4px 2px 2px #000000;
+
+}
+
+.Playlist-import input {
+    background-color: bisque;
+}
+
+.Playlist-import h2 {
+    color: white;
+}
+
+
